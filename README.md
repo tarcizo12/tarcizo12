@@ -2,11 +2,12 @@
 
 * 👨‍💻 Estudante de <b>Ciências da Computação</b>
 * 🎓Universidade de Fortaleza (UNIFOR)
-* 👀 Buscando cada vez mais <b>aprendizado</b>
+* 👀 Para cada desafio, um aprendizado <b>aprendizado</b>
+* 👀 Desenvolvedor backend, fullstack nas horas vagas</b>
 
 <br>
 <br>
-<h2>Este é meu portifolio pessoal de estudos, com o intuito de documentar projetos que agregam em conhecimento </h2>
+<h2>Este é meu portifolio pessoal de estudos, com o intuito de documentar projetos que agregam em conhecimento para a comunidade dev</h2>
 
   
 ![Tarcizo GitHub stats](https://github-readme-stats.vercel.app/api?username=tarcizo12&show_icons=true&theme=dracula)   
